@@ -25,7 +25,7 @@ This project provides a collection of beginner-friendly Bash scripts designed to
 
 ## 👨‍💻 Author
 
-**Ayush Paunikar**
+**Ayush Paunikar**<br>
 GitHub: [DRAGONAP](https://github.com/DRAGONAP)
 
 ---
